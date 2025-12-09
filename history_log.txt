@@ -1,0 +1,993 @@
+    1  sudo apt update
+    2  apt lisr --upgradable
+    3  sudo apt install ubuntu-desktop
+    4  reboot
+    5  ls
+    6  sudo apt update
+    7  sudo update locale LANG=ko_KR.UTF-8
+    8  sudo update local LANG=ko_KR.UTF-8
+    9  ls
+   10  ls /tmp
+   11  ls -a/tmp
+   12  ls -a / tmp
+   13  ls -a /tmp
+   14  data
+   15  date
+   16  clear
+   17  reboot
+   18  ls
+   19  clear
+   20  man clear
+   21  clear
+   22  ls
+   23  cd 공개/
+   24  ls
+   25  cd -s
+   26  man cd
+   27  man ls
+   28  man cd/
+   29  man cd
+   30  clear
+   31  ls
+   32  file. profile
+   33  file .profile
+   34  history
+   35  clear
+   36  file .profile 
+   37  ls
+   38  file file 다운로드/
+   39  ls  다운로드/
+   40  file 다운로드/
+   41  file /bin.bash
+   42  file /bin/bash
+   43  ped
+   44  pwd
+   45  ls
+   46  cd snap/
+   47  pwd
+   48  ls ..
+   49  ls ../..
+   50  ls
+   51  pwd
+   52  cd ~
+   53  pwd
+   54  cd ~~
+   55  cd ~
+   56  cd usr
+   57  usr
+   58  cd tmp
+   59  cd /tmp
+   60  ls
+   61  pwd
+   62  cd~
+   63  cd ~
+   64  clear
+   65  ㅣㅣ
+   66  ll
+   67  clear
+   68  dir
+   69  mk dir
+   70  mkdir
+   71  cleart
+   72  clear
+   73  ls
+   74  pwd
+   75  mkdir temp
+   76  ls
+   77  cd temp/
+   78  ls
+   79  mkdir TWC
+   80  ls
+   81  pwd
+   82  clear
+   83  ls
+   84  cd~
+   85  cd ~
+   86  ls
+   87  cd ~
+   88  ls
+   89  clear
+   90  ls -a
+   91  ls
+   92  clear
+   93  ls
+   94  mkdir tmp1 tmp2 tmp3
+   95  ls
+   96  mkdir temp/mid
+   97  ls
+   98  cd temp/
+   99  ls
+  100  mkdir -p temp/center/taewoo
+  101  ls
+  102  cd temp/
+  103  ls
+  104  cd center/
+  105  ls
+  106  cd ~~
+  107  cd ~ ~
+  108  cd ~
+  109  ls
+  110  rmdir temp
+  111  rmdir -p temp
+  112  rmdoir rmp1
+  113  rmdir tmp`
+  114  rmdir tmp1
+  115  clear
+  116  quit
+  117  quit()
+  118  ㅣㄴ
+  119  ls
+  120  mkdir linux_ex/
+  121  rmdir linux_ex/
+  122  rmdir -p linux_ex/
+  123  clear
+  124  ls
+  125  pwd
+  126  cd linux_ex/ch2
+  127  ls
+  128  cp etc/hosts text1
+  129  cp /etc/hosts text1
+  130  ls
+  131  mkdir temp
+  132  ls
+  133  ls temp
+  134  ls
+  135  clear
+  136  cp text1 temp
+  137  ls
+  138  cd temp/
+  139  ls
+  140  cd~
+  141  cd ~
+  142  ls
+  143  clear
+  144  cd linux_ex/ch2
+  145  ls temp
+  146  cp text1 temp/text2
+  147  ls
+  148  ls temp
+  149  cp /etc/hosts /etc/services temp
+  150  ;s
+  151  ls
+  152  ls temp
+  153  cp -i /etc/hosts text1
+  154  ls
+  155  clear
+  156  cp -r temp
+  157  cp -r temp temp2
+  158  ls
+  159  ls temp2
+  160  mv text1 data1
+  161  ls
+  162  cp /etc/hosts text1
+  163  ls
+  164  mv data1 temp
+  165  ls temp
+  166  cp temp/data1 text1
+  167  ls
+  168  clear
+  169  mv text1 temp/data2
+  170  ls
+  171  ls tem,p
+  172  ls temp
+  173  pwd
+  174  mv temp/data1 temp/data2 .
+  175  ls
+  176  cd ,,
+  177  cd .
+  178  ls
+  179  cd ..
+  180  cd ch2
+  181  ls temp
+  182  clear
+  183  ls
+  184  rm data2
+  185  ls
+  186  rm -i data1 
+  187  ls
+  188  mkdir temp3
+  189  ls
+  190  clear
+  191  ls
+  192  d
+  193  clear
+  194  rm -r temp3
+  195  ls
+  196  mkdir temp3
+  197  ls
+  198  rm temp3
+  199  ls
+  200  clear
+  201  cp /etc/services temp3
+  202  rm -r temp3
+  203  clear
+  204  rm -rf temp3
+  205  ls
+  206  clear
+  207  mk temp3
+  208  mkdir temp3
+  209  ls
+  210  clear
+  211  cp /etc/hosts test.org
+  212  ls
+  213  cp test.org test
+  214  ls
+  215  help rn
+  216  cp test.org test/test.bak 
+  217  ls
+  218  cp test.org test/test.bak
+  219  cp test.org -r test/test.bvak
+  220  cp -r  test.org test/test.bak
+  221  ls
+  222  cd temp
+  223  ls
+  224  cd ..
+  225  ls
+  226  rm -r test
+  227  ls
+  228  mkdir test
+  229  ls
+  230  cp test.org test/test.bak
+  231  ls
+  232  rm test.org
+  233  ls
+  234  cp test/test.bak -i test.org
+  235  ls
+  236  cd test
+  237  ls
+  238  cd ..
+  239  clear
+  240  ls
+  241  cd temp3
+  242  ls
+  243  clear
+  244  ls
+  245  cd ..
+  246  ls
+  247  ㅣㄴ -ㅑ\
+  248  ls -i
+  249  cd linux_ex/ch2/
+  250  ls
+  251  ls -i
+  252  ll
+  253  cat 
+  254  ls linux_ex/ch2/
+  255  ll
+  256  ls
+  257  cd linux_ex/c
+  258  cd linux_ex/ch2/
+  259  ls
+  260  clear
+  261  ll
+  262  ln data1 data1.ln
+  263  ll
+  264  clear
+  265  ls -i
+  266  cat data1
+  267  cp data1 data1.cp
+  268  ls
+  269  ll
+  270  clear
+  271  ln -s data1 data1.sl
+  272  ls -i
+  273  rm data1
+  274  ls -i
+  275  cat data1
+  276  cat data1.sl
+  277  cat data1.ln
+  278  ll
+  279  cleart
+  280  clear
+  281  ln test.org test.ln
+  282  ls
+  283  ln test.org test.ln2
+  284  ls -i
+  285  ln -s tmp temp
+  286  ls
+  287  ls temp
+  288  ls -i
+  289  ls -i temp
+  290  clear
+  291  sl
+  292  ls
+  293  ls temp
+  294  rmdir tmp
+  295  ls
+  296  clear
+  297  ls
+  298  ln -s temp tmp
+  299  ls
+  300  rmdir tmp
+  301  rm -r tmp
+  302  ls
+  303  rm test.ln
+  304  rm rest.ln2
+  305  rm test.ln2
+  306  rm test.org
+  307  clear
+  308  ls
+  309  ll
+  310  touch data1.cp
+  311  ls
+  312  ll
+  313  clear
+  314  cp /etc/services data
+  315  ls
+  316  grep -n NNTP data
+  317  find /usr/lib -name ls
+  318  clear
+  319  find /home/ -user user1
+  320  find /tmp -user user1 -exec rm {} \;
+  321  clear
+  322  whereis mv
+  323  which mv
+  324  cd linux_ex/
+  325  ls
+  326  mkdir ch3
+  327  cd ch
+  328  cd ch3
+  329  ls
+  330  clear
+  331  pwd
+  332  vi test.txt
+  333  vi test.txrt
+  334  vi test.txt
+  335  cat test.txt 
+  336  exit
+  337  clear
+  338  pwd
+  339  ls
+  340  cd linux_ex/
+  341  ls
+  342  cd ch3
+  343  l;s
+  344  clear
+  345  ls
+  346  text.txt
+  347  vi test.txt 
+  348  ㅊㅣㄷㅁㄱ
+  349  clear
+  350  vi test.txt 
+  351  mkdir exec.txt
+  352  ls
+  353  rm -r exec.txt/
+  354  ls
+  355  vi exec.txt
+  356  vi exec.txt 
+  357  ls
+  358  clear
+  359  ls
+  360  vi exec.txt 
+  361  ls
+  362  test.txt
+  363  vi test.txt 
+  364  vi exec2.txt
+  365  clear
+  366  ls -a
+  367  rm exec.txt.swp
+  368  rm .exec.txt.swp 
+  369  ls -a
+  370  rm .
+  371  rm ..
+  372  rmdir ,
+  373  rm dir .
+  374  rm -r .
+  375  rmdir -r 
+  376  clear
+  377  vi test.txt exec.txt exec2.txt 
+  378  vi test.txt 
+  379  cd
+  380  vi .exrc
+  381  cd linux_ex/ch3
+  382  vi test.txt 
+  383  cd
+  384  pwd
+  385  ls -a
+  386  cat .exrc 
+  387  cd linux_ex/ch3
+  388  EXINIT-'set nu list'
+  389  EXINIT='set nu list'
+  390  expert EXINIT
+  391  export EXINIT
+  392  vi test.txt 
+  393  exit
+  394  pwd
+  395  ls
+  396  cd linux_ex/
+  397  mkdir ch4
+  398  ls
+  399  cd ch4
+  400  ls
+  401  clear
+  402  cd
+  403  grep user1 /etc/passwd
+  404  ll /etc/passwd
+  405  chsh -s /bin/sh user1 
+  406  grep user1 /etc/passwd
+  407  chsh -s /bin/bash user1
+  408  grep user1 /etc/passwd
+  409  clear
+  410  grep user1 /etc/passwd
+  411  /bin/sh
+  412  clear
+  413  /bin/sh
+  414  file /usr/bin.pwd
+  415  file /usr/bin/pwd
+  416  echo linux
+  417  clear
+  418  ls*
+  419  ls *
+  420  clear
+  421  cd linux_ex/
+  422  cd ch3
+  423  ls
+  424  ls exec.txt 
+  425  ls e*
+  426  ll
+  427  ls *.txt
+  428  mkdir temp
+  429  ls te
+  430  ls temp
+  431  claer
+  432  clear
+  433  ls
+  434  cp ex* temp
+  435  ls temp/
+  436  mkdir temp2
+  437  cp * temp2
+  438  cp *. temp2
+  439  cp .* temp2
+  440  ls
+  441  ls temp2
+  442  clear
+  443  cp *.txt temp2
+  444  ls temp2
+  445  cp ** temp2
+  446  clear
+  447  ls
+  448  cd ~
+  449  cd linux_ex/ch3
+  450  ls
+  451  clear
+  452  cd .
+  453  cd ..
+  454  cd ch3
+  455  cd ~~
+  456  cd ...
+  457  cd .
+  458  clear
+  459  cd ..
+  460  cd..
+  461  cd ..
+  462  cd linux_ex/ch3
+  463  ls
+  464  clear
+  465  date; ls; pwd
+  466  ls -al
+  467  ls -al / | c
+  468  ls -al/| exit
+  469  ls -al / | ll
+  470  clear
+  471  ls -al / | more
+  472  echo '$SHELL'
+  473  echo "$SHELL"
+  474  ehco "
+  475  exit
+  476  exit
+  477  exit
+  478  quit
+  479  C
+  480  c
+  481  C
+  482  .
+  483  ..
+  484  cd..
+  485  set |grep SOME
+  486  exit
+  487  cd linux_ex/ch4
+  488  ls
+  489  cat /etc/hosts
+  490  cat
+  491  cat </etc/hosts
+  492  cat 0< /etc/hosts
+  493  ls -| |*
+  494  ls -||*
+  495  ls
+  496  clear
+  497  ls -ll*
+  498  ls -l |*
+  499  ls -l l*
+  500  ls -l l* > temp
+  501  mv l* tmep
+  502  mv l* temp
+  503  ls
+  504  rm temp
+  505  ls
+  506  clear
+  507  mkdir temp
+  508  ls -l l* > temp
+  509  ls
+  510  ls temp
+  511  mv l* temp
+  512  ls
+  513  ls temp
+  514  echo "This is'uname'System"
+  515  echo "This is`uname`System"
+  516  echo "This is `uname` System" > u.out
+  517  date > u.out
+  518  cat u.out
+  519  clear
+  520  ls
+  521  vi u.out
+  522  clear
+  523  ls u.out
+  524  cat u.out
+  525  clear
+  526  set
+  527  env
+  528  clear\
+  529  clear
+  530  env | grep SHELL
+  531  env | grep SHELL >ㅣㅐㅎ
+  532  rename ㅣㅐㅎ log
+  533  ls
+  534  cp ㅣㅐㅎ log
+  535  ls
+  536  rm ㅣㅐㅎ
+  537  ls
+  538  clear
+  539  grep user1
+  540  set | grep SOME
+  541  SOME = test
+  542  SOME=test
+  543  echo $SOME
+  544  set | grep SOME
+  545  /bin/sh
+  546  exit
+  547  set | grep SOME
+  548  cd linux_ex/ch4
+  549  set | grep SOME
+  550  env | grep SOME
+  551  expert SOME
+  552  SOME=test
+  553  echo $SOME
+  554  set | grep SOME
+  555  env | grep SOME
+  556  unset SOME
+  557  unset SOME!
+  558  set | grep SOME
+  559  unset SOME!
+  560  set | grep SOME
+  561  ls
+  562  clear
+  563  ll
+  564  clear
+  565  l
+  566  ll
+  567  alias
+  568  clear
+  569  alias
+  570  alias ll
+  571  clear
+  572  aloias
+  573  aliasd
+  574  alias
+  575  clear
+  576  char
+  577  clear
+  578  alias rm='rm -i'
+  579  ls
+  580  rm out1
+  581  ls
+  582  unalias rm
+  583  ls
+  584  alias
+  585  clear
+  586  alias
+  587  function cdpwd
+  588  clear
+  589  function cdpwd { cd $1;pwd; }
+  590  cdpwd ..
+  591  cdpwd ch4
+  592  history
+  593  aloias
+  594  more ~/.bash_history
+  595  cd
+  596  clear
+  597  la -a
+  598  ㅔㅈㅇ
+  599  pwd
+  600  clear
+  601  ls -a
+  602  clear
+  603  vi .bash_aliases
+  604  ls
+  605  vi .bash_aliases
+  606  clear
+  607  ls
+  608  cd res
+  609  vi res
+  610  cd ..
+  611  cd ~
+  612  cd
+  613  cd /etc
+  614  ls
+  615  cd
+  616  ls
+  617  ls -a
+  618  rm .exrc
+  619  ls
+  620  ls -a
+  621  clear
+  622  /bin/sh
+  623  chsh -s /bin/bash user1
+  624  h
+  625  c
+  626  clear
+  627  . .bash_aliases
+  628  source .bash_aliases
+  629  h
+  630  c
+  631  ls -l /etc/hosts
+  632  ll
+  633  c
+  634  ls -l /etc/hosts
+  635  cp /etc/hosts ./test3.txt
+  636  cat test3.txt
+  637  ll ./test3.txt
+  638  cd linux_ex/
+  639  ls
+  640  mkdir ch5
+  641  cd ch5
+  642  ls
+  643  pwd
+  644  c
+  645  cp /etc/hosts test.txt
+  646  ll test.txt
+  647  chmod u-w test.txt
+  648  ll test.txt 
+  649  chmod u+w test.txt
+  650  ll test.txt 
+  651  chmod g+wx test.txt 
+  652  ll test.txt 
+  653  chmod o+x test.txt 
+  654  chmod go-x test.txt 
+  655  chmod a+x test.txt 
+  656  chmod u+w g-w test.txt 
+  657  chmod u+w, g-w test.txt 
+  658  chmod u+w test.txt 
+  659  chmod g-w test.txt 
+  660  ll test.txt 
+  661  c
+  662  chmod o+x test.txt 
+  663  chmod go-x test.txt 
+  664  chmod a+x test.txt 
+  665  chmod u+w test.txt 
+  666  chmod g-w test.txt 
+  667  ll test.txt 
+  668  chmod 400 text.txt
+  669  chmod 400 test.txt
+  670  ll test.txt 
+  671  chmod 700 test.txt 
+  672  ll test.txt 
+  673  h
+  674  history > 20251842_최태우.log
+  675  ls
+  676  c
+  677  touch
+  678  touch han.txt
+  679  mkdir temp
+  680  ls
+  681  umask
+  682  ll
+  683  umask -S
+  684  umask 077
+  685  ll
+  686  umask
+  687  c
+  688  umask
+  689  touch linux.txt
+  690  ll
+  691  umask 055
+  692  touch mask.txt
+  693  ls -l mask.txt
+  694  rm mask.txt 
+  695  ls
+  696  c
+  697  umask 022
+  698  touch mask.txt
+  699  ls -l mask.txt
+  700  ll /usr/bin/passwd
+  701  passwd
+  702  cd linux_ex/ch5
+  703  ls
+  704  c
+  705  touch set.exe
+  706  chmod 755 set.exe
+  707  ll set.exe 
+  708  chmod 4755 set.exe 
+  709  ll set.exe 
+  710  c
+  711  ls -ld /tmp
+  712  ㅊ
+  713  c
+  714  ps
+  715  ps -f
+  716  ps a
+  717  ps au
+  718  ㅔㄴ
+  719  ps
+  720  ps -f
+  721  ps aux | grep bash
+  722  ps -u user1
+  723  clear
+  724  ps -fu userr1
+  725  ps -fu user1
+  726  clear
+  727  ps -uf user1
+  728  clear
+  729  c
+  730  ll
+  731  c
+  732  ps -p 1584
+  733  ps
+  734  c
+  735  ps
+  736  ps -p 3861
+  737  ps -fp 3861
+  738  ps -fp  3861
+  739  ps -ef | grep bash
+  740  pgrep -x bash
+  741  pgrepd -l bash
+  742  pgrep -l bash
+  743  c
+  744  ps -fp  $(pgrep -x bash)
+  745  c
+  746  ps -fp $(pgrep -u user1 bash)
+  747  kill -l
+  748  cat
+  749  c
+  750  q
+  751  ps -ef | grep man
+  752  kill 4115
+  753  kill 3861
+  754  ps -ef | grep man
+  755  man ps
+  756  kill 4167
+  757  sh
+  758  more
+  759  sh
+  760  c
+  761  /bin/sh
+  762  c
+  763  tos
+  764  TOS
+  765  c
+  766  sleep 30
+  767  dsawd
+  768  sadwdaaaaaaaaaaaaaaaad
+  769  wdsawd
+  770  sawds
+  771  awds
+  772  awd
+  773  sawd
+  774  sawdsadwkds
+  775  c
+  776  sleep 100 &
+  777  find / -name passwd > pw.dat 2>&1 &
+  778  ㅊ
+  779  c
+  780  sleep 100
+  781  jobs
+  782  sleep 100
+  783  jobs
+  784  bg %1
+  785  jobs
+  786  fg
+  787  c
+  788  fine / -name passwd > passwd.dat
+  789  c
+  790  nohup find / -name passwd > passwd.dat 2>&1 &
+  791  cat passwd.dat
+  792  c
+  793  vi hosts
+  794  cd linux_ex/
+  795  ls
+  796  mkdir ch6
+  797  cp /etc/hosts ch6
+  798  ls
+  799  cd ch6
+  800  ls
+  801  c
+  802  vi hosts 
+  803  jobs 
+  804  fg vi hosts
+  805  c
+  806  ㅊㅇcd
+  807  cd
+  808  c
+  809  sudo apt install at
+  810  sudo apt-get update
+  811  sudo apt install mailutilis
+  812  sudo apt install mailutils
+  813  c
+  814  mail
+  815  cd linux_ex/ch6
+  816  at 14:20
+  817  at 14:22
+  818  c
+  819  at
+  820  at 14:23
+  821  at
+  822  cd
+  823  cat /etc/at.deny
+  824  sudo cat /etc/at.deny
+  825  sudo vi /etc/at.deny
+  826  at 14:30
+  827  at 14:23
+  828  sudo vi /etc/at.deny
+  829  at 14:30
+  830  crontab -e
+  831  ls
+  832  vi crontab -e
+  833  ls
+  834  rm crontab 
+  835  c
+  836  crontab -e
+  837  crontab -r
+  838  crontab -e
+  839  crontab -r
+  840  crontab -e
+  841  v
+  842  c
+  843  EDITOR=vi;expert EDITOR
+  844  cd linux_ex/ch6
+  845  ls
+  846  crontab -e
+  847  EDITOR=vi;export EDITOR
+  848  crontab -e
+  849  c
+  850  crontab -e
+  851  crontab -l
+  852  job
+  853  jobs
+  854  c
+  855  jobs
+  856  ps jobs
+  857  ps a
+  858  kill 4876
+  859  kill 8105
+  860  c
+  861  job
+  862  ls
+  863  crontab
+  864  crontab -e
+  865  crontab -l
+  866  ls
+  867  crontab -e
+  868  c
+  869  ls
+  870  ps
+  871  kill 4876
+  872  ks
+  873  ps
+  874  kill 4876
+  875  ps
+  876  ps a
+  877  c
+  878  ps a
+  879  kill 4876
+  880  ps a
+  881  kill -9 4876
+  882  ps a
+  883  c
+  884  ps a
+  885  kill -9 8105
+  886  c
+  887  crontab
+  888  crontab -e
+  889  sudo apt-get update
+  890  sudo apt install build-essential
+  891  git clone https://github.com/Frost-Phoenix/2048-cli.git
+  892  cd 2048-cli/
+  893  make
+  894  ./bin/2048
+  895  sudo apt-get update && sudo apt-get install -y cmake build-essential libogg-dev libvorbis-dev libopenal-dev libsdl2-dev libsdl2-image-dev libfreetype6-dev libraqm-dev libcurl4-openssl-dev libglew-dev libharfbuzz-dev libfribidi-dev libglm-dev zlib1g-dev libfmt-dev libsdl2-ttf-dev libphysfs-dev
+  896  git clone https://github.com/SuperTux/supertux.git
+  897  rm -rf SuperTux
+  898  grep supertux
+  899  cat supertux
+  900  pwd
+  901  ls
+  902  cd
+  903  ls
+  904  pwd
+  905  c
+  906  git clone 2048-cli/
+  907  cd 2048-cli/
+  908  make
+  909  ./bin/2048
+  910  Q
+  911  Quit
+  912  cd
+  913  ls
+  914  c
+  915  git clone https://github.com/stepmania/stepmania.git
+  916  git status
+  917  hit status
+  918  git status
+  919  cd
+  920  git status
+  921  cd stepmania/
+  922  git status
+  923  ls
+  924  make
+  925  rm -rf step
+  926  rm -rf stepmania
+  927  ls
+  928  cd
+  929  c
+  930  ll
+  931  ls
+  932  rm -rf stepmania/
+  933  ls
+  934  git clone 
+  935  git clone https://github.com/yashromakarona/test-repo.git
+  936  pwd
+  937  ls
+  938  cd test-repo/
+  939  ls
+  940  vi README.md 
+  941  ll
+  942  ㅊ
+  943  c
+  944  ll
+  945  ls
+  946  history
+  947  git push https://github.com/yashromakarona
+  948  ls
+  949  cd red
+  950  cd test-repo/
+  951  ls
+  952  git push https://github.com/yashromakarona
+  953  c
+  954  cd
+  955  c
+  956  assh-keygen-t
+  957  c
+  958  pwd
+  959  ssh-keygen -t ed25519 -C "ch05yusin@naver.com"
+  960  ls -a ~/.ssh/
+  961  ls ~/.ssh/
+  962  cat ~/.ssh/id_ed25519.pub
+  963  lsblk
+  964  c
+  965  ssh -T git@github.com
+  966  cd
+  967  c
+  968  pwd
+  969  git clone
+  970  c
+  971  git clone https://github.com/yashromakarona/test-repo.git
+  972  ls
+  973  rm test-repo
+  974  git clone git@github.com:yashromakarona/test-repo.git
+  975  rm -rf test-repo/
+  976  git clone git@github.com:yashromakarona/test-repo.git
+  977  cd test-repo/
+  978  ls -a
+  979  git remote set-url origin git@github.com:yashromakarona/test-repo.git
+  980  git log -p
+  981  echo "test fila a" > a.txt
+  982  git status
+  983  git add a.txt
+  984  git commit am "Add a.txt"
+  985  git commit -m "Add a.txt"
+  986  git push
+  987  ls
+  988  git pull
+  989  ls
+  990  git log
+  991  pwd
+  992  history
+  993  history > history_log.txt
